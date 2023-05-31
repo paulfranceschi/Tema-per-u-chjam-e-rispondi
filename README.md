@@ -35,4 +35,9 @@ You can contribute to the project in different ways:
 # License
 This project is published under the MIT license. 
 
+# Versions by operating system
+## Windows
+The python code of the release runs on Windows.
 
+## Android
+The app is currently available on Android playstore (free, no ad) under the title 'Tema per u chjam'è rispondi'.
