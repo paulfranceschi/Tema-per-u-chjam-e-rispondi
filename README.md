@@ -12,8 +12,8 @@ The 'Tema per u chjam'è rispondi' app is designed to provide random themes for 
 ## Options
 The app provides the following functions:
 * Run: This function provides a random theme from Corsican 'Chjama è rispondi'. The user can select various options to customize the theme, such as category choice (unique or multiple), single or double theme.
-* Single: This function provides a single theme for the user. For example, 'a leccia'.
-* Double: This function provides a double theme for the user. For example, 'U muvronu è a puppusgiula'.
+* Single: This function provides a single theme for the user. For example, 'a leccia' (the oak tree).
+* Double: This function provides a double theme for the user. For example, 'U muvronu è a puppusgiula' (the mouflon and the hoopoe).
 * Increase font size: This function increases the font size of the theme displayed on the screen.
 * Decrease font size: This function decreases the font size of the theme displayed on the screen.
 * Default mode: This function allows the user to select the default mode for the app, either single or double theme.
