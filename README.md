@@ -5,6 +5,7 @@
 ![Repo Size](https://img.shields.io/github/repo-size/paulfranceschi/taxonomy-of-concepts-for-AI)
 
 # General considerations
+<img align="right" width="100%" src="https://github.com/paulfranceschi/taxonomy-of-concepts/blob/main/Screenshot_2023-04-08-12-52-06-505_1024x500.jpg">
 
 # Project history
 This project was initiated by philosopher [Paul Franceschi](https://www.paulfranceschi.com) in may 2023.
