@@ -5,7 +5,7 @@
 ![Repo Size](https://img.shields.io/github/repo-size/paulfranceschi/taxonomy-of-concepts-for-AI)
 
 # General considerations
-<img align="right" width="100%" src="https://github.com/paulfranceschi/taxonomy-of-concepts/blob/main/Screenshot_2023-04-08-12-52-06-505_1024x500.jpg">
+<img align="right" width="100%" src="https://github.com/paulfranceschi/Tema-per-u-chjam-e-rispondi/blob/main/Screenshot_2023-04-08-12-52-06-505_1024x500.jpg">
 
 The 'Tema per u chjam'è rispondi' app is designed to provide random themes for the Corsican type of improvised singing 'Chjama è rispondi'. The app allows users to select various options to customize the themes and interface according to their preferences.
 
