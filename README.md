@@ -2,7 +2,7 @@
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-![Repo Size](https://img.shields.io/github/repo-size/paulfranceschi/taxonomy-of-concepts-for-AI)
+![Repo Size](https://img.shields.io/github/repo-size/paulfranceschi/Tema-per-u-chjam-e-rispondi)
 
 # General considerations
 <img align="right" width="30%" src="https://github.com/paulfranceschi/Tema-per-u-chjam-e-rispondi/blob/main/Screenshot_2023-04-08-12-52-06-505_1024x500.jpg">
