@@ -12,7 +12,7 @@ The role of Chjam'è rispondi in the transmission of the Corsican language and i
 In recent years, there has been a renewed interest in Chjam'è rispondi, and many events are organized throughout Corsica to celebrate this traditional singing art. It has also been recognized as a potential tool for language learning, as it encourages participants to use and develop their language skills in a fun and engaging way.
 Overall, Chjam'è rispondi is a unique and fascinating tradition that reflects the rich cultural heritage of Corsica. It is a testament to the creativity, ingenuity, and resilience of the Corsican people, and it serves as a reminder of the importance of preserving and celebrating cultural traditions.
 
-With the Corsican language, like 5,000 languages around the world, currently threatened with extinction, chjam'è rispondi is an ancestral art form that is also threatened with extinction.
+With the Corsican language, like 5,000 languages around the world, currently threatened with extinction, the chjam'è rispondi is an ancestral art form that is also threatened with extinction.
 
 # This project
 <img align="right" width="30%" src="https://github.com/paulfranceschi/Tema-per-u-chjam-e-rispondi/blob/main/Screenshot_2023-04-08-12-52-06-505_1024x500.jpg">
